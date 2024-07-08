@@ -9,7 +9,7 @@
 - Name : Hong SeungUk
 - Email : sungouk1457@naver.com
 - I'm currently working as an IoT instructor
-  - Major : C#, Python, ASP.NET
+  - Major : C#, Python, ASP.NET, WPF
   - Minor : Java
 
  ## GitHub Stat and Languages
@@ -23,10 +23,10 @@
 
 ## Using Languages
 <p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
-    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
-    <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
-    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+    <img height="40" src="https://img.icons8.com/?size=100&id=49991&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=49982&format=png&color=000000" title="C++">
+    <img height="40" src="https://img.icons8.com/?size=100&id=49977&format=png&color=000000" title="ASP.NET">
+    <img height="40" src="https://img.icons8.com/?size=100&id=0vplMYeajmDb&format=png&color=000000" title="Python">
 </p>
 
 ## Using Technics
