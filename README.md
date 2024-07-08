@@ -1,8 +1,9 @@
 <p align='center'>
   <a href="https://github.com/sungouk1457">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=My%20Repositories](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=My%20Repositories/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=My%20Repositories"/>
   </a>
 </p>
+
 
 ## Profile
 - Name : Hong SeungUk
